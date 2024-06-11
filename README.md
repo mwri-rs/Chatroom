@@ -20,6 +20,6 @@ The `Server` class listens on a specific port (1234 by default) for incoming con
 # Client class
 The `Client` class establishes a connection to the chat server. It allows users to send messages to the server, receive messages from other clients, and set their display name.
 
-# Notes
+# A note
 - Make sure to run the server before starting any clients for successful communication.
   
